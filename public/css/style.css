@@ -1,0 +1,14 @@
+.mini-article {
+    height: 20vh;
+    overflow: hidden;
+}
+
+.my-line {
+    width: 10%;
+    border: none;
+    border: 1px dashed orangered;
+}
+
+.cursive {
+    font-style: italic;
+}
